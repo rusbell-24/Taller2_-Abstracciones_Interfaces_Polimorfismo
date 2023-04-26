@@ -54,4 +54,4 @@ En el presente proyecto se elaboraron 5 clases de la cuales 1 es abstracta y 3 i
 - IUnmannedSpacecraft
 - IMannedSpacecraft
 
-Finalmente, la totalidad de las clases se encuentran en el package ***edu.rusbellruiz.quarrylevel2workshop2*** .
+Finalmente, la totalidad de las clases se encuentran en el package ***sofka*** .
