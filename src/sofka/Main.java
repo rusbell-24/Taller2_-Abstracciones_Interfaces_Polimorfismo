@@ -166,7 +166,7 @@ public class Main {
                 System.out.println("Su nave se le entregara dentro de 6 meses.\n");
                 System.out.println("-----------------------------------------------------------------\n");
                 System.out.println("---------A continuación, volverá al menú principal---------------\n\n\n\n\n");
-                Thread.sleep(35000);
+                Thread.sleep(20000);
             }
         }
         while (!exit);
